@@ -13,7 +13,7 @@
     동일한 프로젝트에서 해당 내용의 소스코드 및 아이디어를 도용하는 것은 명백한 위법행위입니다.
 
 ### 작동구조
-https://user-images.githubusercontent.com/50725139/81751524-93bb3880-94ea-11ea-9cea-bcdf3abba8c1.png
+![구조](https://user-images.githubusercontent.com/50725139/81751524-93bb3880-94ea-11ea-9cea-bcdf3abba8c1.png)
 
 ### 데이터 수집
     에브리타임 강의평은 저작권에 걸려있기 때문에 무단으로 배포할 수 없습니다.
